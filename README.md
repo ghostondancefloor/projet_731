@@ -112,5 +112,5 @@ java MapReduce.Main reduce
 * Use ExecutorService for controlled thread pooling
 
 ---
-
+Authors : Ikram Iddouch - Khadija Zaroil - Sami Sbai
 This project is built as a learning tool to simulate core concepts behind Hadoop-style MapReduce using plain Java.
